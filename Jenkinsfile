@@ -7,7 +7,7 @@ pipeline{
 
         stage ("saludo"){
             steps{
-                echo "saludo"
+                echo "saludo."
         }
     }
 }
